@@ -1,0 +1,2 @@
+LINEA0
+LINEA1 del fichero de texto!

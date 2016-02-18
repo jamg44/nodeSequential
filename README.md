@@ -6,16 +6,14 @@ Lessons for the Node.js Keepcoding Workshop at Google Campus Madrid, Febrary 201
 Points:
 * Node.js introduction
 * Callbacks and loops
-*	Promises
+* Promises
 * Generators
-*	Forgeting callbacks 
-*	Bonus: Forgeting promises
+* Forgeting callbacks
+* Bonus: Forgeting promises
 
 
 
 
-Javier Miguel 
-
-@javiermiguelg
+Javier Miguel @javiermiguelg
 
 2016 MIT License

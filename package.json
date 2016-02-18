@@ -1,0 +1,28 @@
+{
+  "name": "nodesequential",
+  "version": "1.0.0",
+  "description": "Javascript & Node.js workshop practices",
+  "main": "01_funcion_asincrona.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamg44/nodeSequential.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "sequential",
+    "asynchronous",
+    "generators",
+    "promises",
+    "callbacks"
+  ],
+  "author": "Javier Miguel @javiermiguelg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamg44/nodeSequential/issues"
+  },
+  "homepage": "https://github.com/jamg44/nodeSequential#readme"
+}
