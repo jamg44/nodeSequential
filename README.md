@@ -8,8 +8,8 @@ Points:
 * Callbacks and loops
 * Promises
 * Generators
-* Forgeting callbacks
-* Bonus: Forgeting promises
+* Forgetting callbacks
+* Bonus: Forgetting promises
 
 Requirements:
 * Node.js 4+
